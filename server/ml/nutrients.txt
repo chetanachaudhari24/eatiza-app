@@ -1,0 +1,15 @@
+fat
+carb
+protein
+vitamin
+calcium
+sodium
+fiber
+cholesterol
+iron
+magnesium
+manganese
+zinc 
+starch
+
+
